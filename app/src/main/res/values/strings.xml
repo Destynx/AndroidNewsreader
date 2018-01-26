@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsReader</string>
+    <string name="liked_text">Liked</string>
+    <string name="unliked_text" />
+</resources>
